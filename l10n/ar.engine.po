@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ar-lang
+"
+"POT-Creation-Date: 2025-10-27 00:00+0000
+"
+"PO-Revision-Date: 2025-10-27 00:00+0000
+"
+"Last-Translator: catsmoker, 2025
+"
+"Language-Team: Arabic (http://app.transifex.com/wildfire-games/0ad/language/ar/)
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: ar
+"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);
+"
+
+
+#: i18n/L10n.cpp:346
+
+msgid "Long strings"
+
+msgstr "سلاسل نصية طويلة"
+
+
+
+#: lobby/XmppClient.cpp:1024
+
+msgid "unknown subtype (see logs)"
+
+msgstr "نوع فرعي غير معروف (انظر السجلات)"
+
+
+
+#: lobby/XmppClient.cpp:1355
+
+msgid "The certificate is not trusted."
+
+msgstr "الشهادة غير موثوقة."
+
+
+
+#: lobby/XmppClient.cpp:1356
+
+msgid "The certificate hasn't got a known issuer."
+
+msgstr "الشهادة ليس لها جهة إصدار معروفة."
+
+
+
+#: lobby/XmppClient.cpp:1357
+
+msgid "The certificate has been revoked."
+
+msgstr "تم إلغاء الشهادة."
+
+
+
+#: lobby/XmppClient.cpp:1358
+
+msgid "The certificate has expired."
+
+msgstr "انتهت صلاحية الشهادة."
+
+
+
+#: lobby/XmppClient.cpp:1359
+
+msgid "The certificate is not yet active."
+
+msgstr "الشهادة ليست نشطة بعد."
+
+
+
+#: lobby/XmppClient.cpp:1360
+
+msgid "The certificate has not been issued for the peer connected to."
+
+msgstr "لم يتم إصدار الشهادة للطرف المتصل به."
+
+
+
+#: lobby/XmppClient.cpp:1361
+
+msgid "The certificate signer is not a certificate authority."
+
+msgstr "موقّع الشهادة ليس سلطة تصديق."
+
+
+
+#: lobby/XmppClient.cpp:1383 lobby/XmppClient.cpp:1427
+
+#: lobby/XmppClient.cpp:1466
+
+msgid "Error"
+
+msgstr "خطأ"
+
+
+
+#: lobby/XmppClient.cpp:1386 lobby/XmppClient.cpp:1430
+
+msgid "No error"
+
+msgstr "لا يوجد خطأ"
+
+
+
+#: lobby/XmppClient.cpp:1388
+
+msgid "Player already logged in"
+
+msgstr "اللاعب مسجل دخوله بالفعل"
+
+
+
+#: lobby/XmppClient.cpp:1390
+
+msgid "Forbidden"
+
+msgstr "محظور"
+
+
+
+#: lobby/XmppClient.cpp:1392
+
+msgid "Internal server error"
+
+msgstr "خطأ داخلي في الخادم"
+
+
+
+#: lobby/XmppClient.cpp:1396
+
+msgid "Not allowed"
+
+msgstr "غير مسموح به"
+
+
+
+#: lobby/XmppClient.cpp:1397
+
+msgid "Not authorized"
+
+msgstr "غير مصرح به"
+
+
+
+#: lobby/XmppClient.cpp:1400
+
+msgid "Recipient temporarily unavailable"
+
+msgstr "المستلم غير متاح مؤقتًا"
+
+
+
+#: lobby/XmppClient.cpp:1402
+
+msgid "Registration required"
+
+msgstr "التسجيل مطلوب"
+
+
+
+#: lobby/XmppClient.cpp:1406
+
+msgid "Service unavailable"
+
+msgstr "الخدمة غير متاحة"
+
+
+
+#: lobby/XmppClient.cpp:1411 lobby/XmppClient.cpp:1450
+
+msgid "Unknown error"
+
+msgstr "خطأ غير معروف"
+
+
+
+#: lobby/XmppClient.cpp:1431
+
+msgid "Stream error"
+
+msgstr "خطأ في البث"
+
+
+
+#: lobby/XmppClient.cpp:1432
+
+msgid "The incoming stream version is unsupported"
+
+msgstr "إصدار البث الوارد غير مدعوم"
+
+
+
+#: lobby/XmppClient.cpp:1433
+
+msgid "The stream has been closed by the server"
+
+msgstr "تم إغلاق البث من قبل الخادم"
+
+
+
+#: lobby/XmppClient.cpp:1437
+
+msgid "An I/O error occurred"
+
+msgstr "حدث خطأ في الإدخال/الإخراج"
+
+
+
+#: lobby/XmppClient.cpp:1439
+
+msgid "The connection was refused by the server"
+
+msgstr "تم رفض الاتصال من قبل الخادم"
+
+
+
+#: lobby/XmppClient.cpp:1440
+
+msgid "Resolving the server's hostname failed"
+
+msgstr "فشل في حل اسم مضيف الخادم"
+
+
+
+#: lobby/XmppClient.cpp:1441
+
+msgid "This system is out of memory"
+
+msgstr "نفدت ذاكرة هذا النظام"
+
+
+
+#: lobby/XmppClient.cpp:1443
+
+msgid ""
+
+"The server's certificate could not be verified or the TLS handshake did not "
+
+"complete successfully"
+
+msgstr "[]"
+
+
+
+#: lobby/XmppClient.cpp:1444
+
+msgid "The server did not offer required TLS encryption"
+
+msgstr "لم يقدم الخادم تشفير TLS المطلوب"
+
+
+
+#: lobby/XmppClient.cpp:1446
+
+msgid "Authentication failed. Incorrect password or account does not exist"
+
+msgstr "فشلت المصادقة. كلمة المرور غير صحيحة أو الحساب غير موجود"
+
+
+
+#: lobby/XmppClient.cpp:1447
+
+msgid "The user or system requested a disconnect"
+
+msgstr "طلب المستخدم أو النظام قطع الاتصال"
+
+
+
+#: lobby/XmppClient.cpp:1448
+
+msgid "There is no active connection"
+
+msgstr "لا يوجد اتصال نشط"
+
+
+
+#: lobby/XmppClient.cpp:1469
+
+msgid "Your account has been successfully registered"
+
+msgstr "تم تسجيل حسابك بنجاح"
+
+
+
+#: lobby/XmppClient.cpp:1470
+
+msgid "Not all necessary information provided"
+
+msgstr "لم يتم تقديم جميع المعلومات الضرورية"
+
+
+
+#: lobby/XmppClient.cpp:1471
+
+msgid "Username already exists"
+
+msgstr "اسم المستخدم موجود بالفعل"
+
+
+
+#: ps/ModIo.cpp:266
+
+#, c-format
+
+msgid "Failure while starting querying for game id. Error: %s; %s."
+
+msgstr "فشل أثناء بدء الاستعلام عن معرف اللعبة. الخطأ: %s; %s."
+
+
+
+#: ps/ModIo.cpp:296
+
+#, c-format
+
+msgid "Failure while starting querying for mods. Error: %s; %s."
+
+msgstr "فشل أثناء بدء الاستعلام عن التعديلات. الخطأ: %s; %s."
+
+
+
+#: ps/ModIo.cpp:322
+
+#, c-format
+
+msgid "Could not create mod directory: %s."
+
+msgstr "تعذر إنشاء دليل التعديل: %s."
+
+
+
+#: ps/ModIo.cpp:347
+
+#, c-format
+
+msgid "Could not open temporary file for mod download: %s."
+
+msgstr "تعذر فتح ملف مؤقت لتنزيل التعديل: %s."
+
+
+
+#: ps/ModIo.cpp:357
+
+#, c-format
+
+msgid "Failed to start the download. Error: %s; %s."
+
+msgstr "فشل في بدء التنزيل. الخطأ: %s; %s."
+
+
+
+#: ps/ModIo.cpp:402
+
+#, c-format
+
+msgid "Asynchronous download failure: %s, %s."
+
+msgstr "فشل التنزيل غير المتزامن: %s, %s."
+
+
+
+#: ps/ModIo.cpp:430
+
+#, c-format
+
+msgid "Download failure. Server response: %s; %s."
+
+msgstr "فشل التنزيل. استجابة الخادم: %s; %s."
+
+
+
+#: ps/ModIo.cpp:536
+
+msgid "Mismatched filesize."
+
+msgstr "حجم الملف غير متطابق."
+
+
+
+#: ps/ModIo.cpp:554
+
+#, c-format
+
+msgid "Invalid file. Expected md5 %s, got %s."
+
+msgstr "ملف غير صالح. القيمة المتوقعة لـ md5 هي %s، تم استلام %s."
+
+
+
+#: ps/ModIo.cpp:569
+
+msgid "Failed to compute final hash."
+
+msgstr "فشل في حساب التجزئة النهائية."
+
+
+
+#: ps/ModIo.cpp:575
+
+msgid "Failed to verify signature."
+
+msgstr "فشل في التحقق من التوقيع."
+
+
+
+#: ps/scripting/JSInterface_Debug.cpp:87
+
+msgid "custom build"
+
+msgstr "بناء مخصص"
+
+
+
+#: renderer/Renderer.cpp:690 renderer/Renderer.cpp:816
+
+#, c-format
+
+msgid "Screenshot written to '%s'"
+
+msgstr "تم حفظ لقطة الشاشة في '%s'"

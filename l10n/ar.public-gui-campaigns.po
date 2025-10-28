@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ar-lang
+"
+"POT-Creation-Date: 2025-10-27 00:00+0000
+"
+"PO-Revision-Date: 2025-10-27 00:00+0000
+"
+"Last-Translator: catsmoker, 2025
+"
+"Language-Team: Arabic (http://app.transifex.com/wildfire-games/0ad/language/ar/)
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: ar
+"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);
+"
+
+
+#: campaigns/new_maps.json
+
+msgctxt "Campaign Template"
+
+msgid "Demo campaign - new maps"
+
+msgstr "حملة تجريبية - خرائط جديدة"
+
+
+
+#: campaigns/new_maps.json
+
+msgctxt "Campaign Template"
+
+msgid ""
+
+"Discover the new and improved maps in Alpha XXVII with a demo campaign, "
+
+"taking you through all of them."
+
+msgstr "[]"
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid "Tutorial"
+
+msgstr "تعليمي"
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid "Learn how to play 0 A.D."
+
+msgstr "تعلم كيف تلعب 0 A.D."
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid "Introductory Tutorial"
+
+msgstr "تعليمي تمهيدي"
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+
+msgstr "هذا برنامج تعليمي أساسي لمساعدتك على بدء لعب 0 A.D."
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid "Economy Walkthrough"
+
+msgstr "شرح مفصل للاقتصاد"
+
+
+
+#: campaigns/tutorial.json
+
+msgctxt "Campaign Template"
+
+msgid ""
+
+"This map will give a rough guide for starting the game effectively.  Early "
+
+"in the game the most important thing is to gather resources as fast as "
+
+"possible so you are able to build enough troops later. Warning: This is very"
+
+" fast at the start, be prepared to run through the initial bit several "
+
+"times."
+
+msgstr "[]"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.js:185
+
+msgctxt "campaign status"
+
+msgid "Completed"
+
+msgstr "مكتمل"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.js:187
+
+msgctxt "campaign status"
+
+msgid "Available"
+
+msgstr "متاح"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:14
+
+msgid "Campaign Name"
+
+msgstr "اسم الحملة"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:27
+
+msgctxt "campaignLevelList"
+
+msgid "Scenario Name"
+
+msgstr "اسم السيناريو"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:31
+
+msgctxt "campaignLevelList"
+
+msgid "Status"
+
+msgstr "الحالة"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:45
+
+msgid "No scenario selected"
+
+msgstr "لم يتم تحديد أي سيناريو"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:58
+
+msgid "Back to Main Menu"
+
+msgstr "العودة إلى القائمة الرئيسية"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:62
+
+msgid "Saved Games"
+
+msgstr "الألعاب المحفوظة"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:66
+
+msgid "Start Scenario"
+
+msgstr "بدء السيناريو"
+
+
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:69
+
+msgid "Resume Saved Game"
+
+msgstr "استئناف اللعبة المحفوظة"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.js:18
+
+msgid "file cannot be loaded"
+
+msgstr "لا يمكن تحميل الملف"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.js:104
+
+#, javascript-format
+
+msgid "Are you sure you want to delete run %s? This cannot be undone."
+
+msgstr "هل أنت متأكد من أنك تريد حذف التشغيل %s؟ لا يمكن التراجع عن هذا الإجراء."
+
+
+
+#: gui/campaigns/load_modal/LoadModal.js:105
+
+msgid "Confirmation"
+
+msgstr "تأكيد"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+
+msgid "No"
+
+msgstr "لا"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+
+msgid "Yes"
+
+msgstr "نعم"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.xml:13
+
+#: gui/campaigns/load_modal/LoadModal.xml:39
+
+msgid "Load Campaign"
+
+msgstr "تحميل الحملة"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.xml:20
+
+msgid "No ongoing campaigns."
+
+msgstr "لا توجد حملات جارية."
+
+
+
+#: gui/campaigns/load_modal/LoadModal.xml:24
+
+msgid "Name of selected run:"
+
+msgstr "اسم التشغيل المحدد:"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.xml:31
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:23
+
+msgid "Cancel"
+
+msgstr "إلغاء"
+
+
+
+#: gui/campaigns/load_modal/LoadModal.xml:35
+
+msgid "Delete"
+
+msgstr "حذف"
+
+
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:12
+
+msgid "Start a campaign"
+
+msgstr "بدء حملة"
+
+
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:16
+
+msgid "Please enter the name of your new campaign run:"
+
+msgstr "الرجاء إدخال اسم تشغيل حملتك الجديدة:"
+
+
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:27
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:55
+
+msgid "Start Campaign"
+
+msgstr "بدء الحملة"
+
+
+
+#: gui/campaigns/setup/CampaignSetupPage.js:40
+
+msgid "No campaign selected."
+
+msgstr "لم يتم تحديد أي حملة."
+
+
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:10
+
+msgid "Campaigns"
+
+msgstr "الحملات"
+
+
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:26
+
+msgctxt "campaignsetup"
+
+msgid "Name"
+
+msgstr "الاسم"
+
+
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:37
+
+msgid "No Campaign selected"
+
+msgstr "لم يتم تحديد حملة"
+
+
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:50
+
+msgid "Main Menu"
+
+msgstr "القائمة الرئيسية"
+
+
+
+#: gui/common/campaigns/CampaignRun.js:115
+
+#, javascript-format
+
+msgid "%(userDesc)s - %(templateName)s"
+
+msgstr "%(userDesc)s - %(templateName)s"```
+
+
+
+#: campaigns/tutorial.json
+
+msgid "Learn how to play 0 A.D."
+
+msgstr ""
+
+
+
+#: campaigns/tutorial.json
+
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+
+msgstr ""

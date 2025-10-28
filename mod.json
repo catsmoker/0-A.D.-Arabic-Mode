@@ -1,0 +1,9 @@
+{
+	"name": "ar-lang",
+	"version": "0.27.0",
+	"label": "Arabic Language Pack",
+	"url": "play0ad.com",
+	"ignoreInCompatibilityChecks": true,
+	"description": "Arabic Fonts and Translations",
+	"dependencies": ["0ad=0.27.0"]
+}
