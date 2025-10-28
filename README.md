@@ -1,4 +1,4 @@
-# 0-A.D. Arabic Mode -test-
+# 0-A.D. Arabic Mode -test- 0.27.0
 
 **0 A.D. does not currently support right-to-left (RTL) languages** such as Arabic, Persian, or Hebrew.
 
